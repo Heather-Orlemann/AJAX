@@ -1,4 +1,4 @@
-# AJAX
+# Archived Repository for AJAX
 AJAX Assignment Repository
 
 This repository contains a simple AJAX (Asynchronous JavaScript and XML) assignment to demonstrate the basic concepts of AJAX and how it is used to perform asynchronous requests to dynamically update web content without reloading the page.
